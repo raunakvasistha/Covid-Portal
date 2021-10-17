@@ -15,8 +15,7 @@ A Coronavirus Dashboard that updates information realtime using [Streamlit](http
 
 ## Data Source
 
-The [data source](https://github.com/CSSEGISandData/COVID-19) is the repository maintained by the Center of Systems Science and Engineering at
-Johns Hopkins University. It is the same data source used to power the very famous [COVID dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+The [data source](https://github.com/CSSEGISandData/COVID-19) 
 
 ## Overview
 
@@ -28,8 +27,7 @@ import streamlit as st
 
 st.sidebar.radio("Navigate", 
                  ["Home", "Data",
-                  "Dashboard", "About", 
-                  "Contribute"])
+                  "Dashboard", "About"])
 ```
 ![menu-image](assets/menu.gif)
 
