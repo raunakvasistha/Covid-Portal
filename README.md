@@ -17,8 +17,9 @@ A Coronavirus Dashboard that updates information realtime using [Streamlit](http
 
 ## Overview
 
-Streamlit offers a beautiful UI to create data apps very easily. I was able to create the
-side menu just using one line of code.
+All Covid resources and data at one place so that visitors can get all information regarding Covid facts.
+Vaccine tracker and information available regarding the vaccine availability can also be tracked
+All helping resources can be added to website in emergency times 
 
 ```python
 import streamlit as st
