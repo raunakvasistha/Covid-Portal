@@ -11,11 +11,9 @@
 
 A Coronavirus Dashboard that updates information realtime using [Streamlit](https://www.streamlit.io/) as the primary UI engine.
 
-![mona-lisa-mask](assets/down.jpg)
+![Covid](assets/down.jpg)
 
-## Data Source
-
-The [data source](https://github.com/CSSEGISandData/COVID-19) 
+ 
 
 ## Overview
 
